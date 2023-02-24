@@ -1,0 +1,44 @@
+img {
+    height: 260px;
+    width: 240px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: 0px;
+    
+}
+img.align-center {
+    display: block;
+    margin: 0px auto; 
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+h3{
+    text-align: center;
+    color: black;
+}
+form {
+    color: black;
+    font-size: larger;
+    text-align: center;
+}
+
+body {
+    
+    background-image: url("https://scontent-dfw5-1.xx.fbcdn.net/v/t1.6435-9/93770121_3447973865218682_910472108281167872_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=FnzTsFSaoHAAX_wrhz-&_nc_ht=scontent-dfw5-1.xx&oh=00_AfAACPWG3dRjYcrHYKP0ZCT-_DY9PCNWDuivFZM2h84R_w&oe=64207556");
+    
+
+}
+
+span{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    margin: 500px;
+    font-weight: 1000;
+    border-style: solid;
+    border-width: 7px;
+}
